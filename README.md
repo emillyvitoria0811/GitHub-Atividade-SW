@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Recaídas - Henrique & Juliano</title>
+    <title>Recaídas - Henrique e Juliano</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
