@@ -1,0 +1,40 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #a9a9f3;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6464dc;
+    color: #eeeeff;
+    margin-top: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.0em;
+}
+
+h2 {
+    margin-top: 8px;
+    font-weight: normal;
+}
+
+main {
+    padding: 15px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.letra {
+    white-space: pre-wrap;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(172, 170, 240, 0.1);
+}
+
